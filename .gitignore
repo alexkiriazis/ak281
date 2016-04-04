@@ -1,3 +1,6 @@
+# Linux
+*.swp
+*.swo
 
 # Mac
 .DS_Store
@@ -29,16 +32,12 @@ sftp-config.json
 
 # SASS
 .sass-cache
-# Vim, Emacs
+# Vi, Vim, Emacs
 *~
 *# 
 
 # images
-*.jpg
-*.gif
-*.png
-*.svg
-*.ico
+
 
 #video
 *.wmv
